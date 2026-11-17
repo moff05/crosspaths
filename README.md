@@ -23,6 +23,16 @@ Other social calendars (Saturn, Howbout) show **when** you're free. Crosspaths a
 3. **Tap "meet"** on a friend or a group. A quick invite opens with suggested times and spots that work for everyone. No typing needed.
 4. **Send.** Friends reply with one tap. When they're in, you get a notification, the plan shows up on your timeline, and one tap adds it to Google Calendar (or downloads an .ics for Apple Calendar).
 
+| 1. Your day | 2. Who's free | 3. Quick invite |
+|:---:|:---:|:---:|
+| <img src="screenshots/3-today.png" width="250" alt="Day timeline with classes and free gaps"> | <img src="screenshots/4-gap.png" width="250" alt="Gap screen listing free friends and groups"> | <img src="screenshots/5-invite.png" width="250" alt="Quick invite with time and place chips"> |
+| **4. They're in** | **5. On your day** | **Guided demo tour** |
+| <img src="screenshots/6-confirmed.png" width="250" alt="Confirmed plan with add to Google Calendar"> | <img src="screenshots/7-today-plan.png" width="250" alt="Timeline showing the confirmed plan"> | <img src="screenshots/2-tour.png" width="250" alt="Guided tour coach mark"> |
+
+| Friends & groups | Profile | Welcome |
+|:---:|:---:|:---:|
+| <img src="screenshots/8-friends.png" width="250" alt="Friends and groups list"> | <img src="screenshots/9-profile.png" width="250" alt="Profile with stats and weekly schedule"> | <img src="screenshots/1-welcome.png" width="250" alt="Welcome screen"> |
+
 ## Features
 
 - Day timeline built from your real class schedule
